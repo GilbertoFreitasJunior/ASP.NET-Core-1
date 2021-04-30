@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Adicionar Produto";
+}
+
+
+<form class="form-signin" action="ProdutoIncluido" method="post">
+    <h1 class="h3 mb-3 font-weight-normal">Informações do produto:</h1>
+
+    <label for="inputId" class="sr-only">ID:</label>
+    <input type="number" id="inputId" class="form-control" placeholder="Id" name="Id" required autofocus>
+    <br /><br />
+    <label for="inputNome" class="sr-only">Nome:</label>
+    <input type="text" id="inputNome" class="form-control" placeholder="Nome" name="Nome" required>
+    <br /><br />
+    <label for="inputPreco" class="sr-only">Preço:</label>
+    <input type="number" id="inputPreco" class="form-control" placeholder="Preço" name="Preco" required min="0" step=".01">
+    <br /><br />
+    <button class="btn btn-lg btn-primary btn-block" type="submit">Adicionar Produto</button>
+</form>

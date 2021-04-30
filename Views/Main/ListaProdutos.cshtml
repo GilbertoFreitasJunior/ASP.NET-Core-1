@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Lista Produtos";
+}
+
+
+@{
+    var csv = new CsvHandler();
+}
+@foreach (var produto in csv.ListarProdutos())
+{
+<div class="row mb-3">
+    <div class="col-4 themed-grid-col">ID: @produto.Id</div>
+    <div class="col-4 themed-grid-col">Nome: @produto.Nome</div>
+    <div class="col-4 themed-grid-col">Preço: @produto.Preco</div>
+</div>
+}

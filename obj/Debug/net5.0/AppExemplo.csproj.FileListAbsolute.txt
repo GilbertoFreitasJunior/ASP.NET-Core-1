@@ -1,0 +1,150 @@
+C:\Users\mytef\source\repos\AppExemplo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mytef\source\repos\AppExemplo\bin\Debug\net5.0\appsettings.json
+C:\Users\mytef\source\repos\AppExemplo\bin\Debug\net5.0\AppExemplo.exe
+C:\Users\mytef\source\repos\AppExemplo\bin\Debug\net5.0\AppExemplo.deps.json
+C:\Users\mytef\source\repos\AppExemplo\bin\Debug\net5.0\AppExemplo.runtimeconfig.json
+C:\Users\mytef\source\repos\AppExemplo\bin\Debug\net5.0\AppExemplo.runtimeconfig.dev.json
+C:\Users\mytef\source\repos\AppExemplo\bin\Debug\net5.0\AppExemplo.dll
+C:\Users\mytef\source\repos\AppExemplo\bin\Debug\net5.0\ref\AppExemplo.dll
+C:\Users\mytef\source\repos\AppExemplo\bin\Debug\net5.0\AppExemplo.pdb
+C:\Users\mytef\source\repos\AppExemplo\bin\Debug\net5.0\AppExemplo.Views.dll
+C:\Users\mytef\source\repos\AppExemplo\bin\Debug\net5.0\AppExemplo.Views.pdb
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.csprojAssemblyReference.cache
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.AssemblyInfoInputs.cache
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.AssemblyInfo.cs
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.csproj.CoreCompileInputs.cache
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.RazorAssemblyInfo.cache
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.RazorAssemblyInfo.cs
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\staticwebassets\AppExemplo.StaticWebAssets.Manifest.cache
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\staticwebassets\AppExemplo.StaticWebAssets.xml
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\scopedcss\bundle\AppExemplo.styles.css
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.TagHelpers.input.cache
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.TagHelpers.output.cache
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.RazorCoreGenerate.cache
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.RazorTargetAssemblyInfo.cache
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.RazorTargetAssemblyInfo.cs
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.Views.pdb
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.dll
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\ref\AppExemplo.dll
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.pdb
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.genruntimeconfig.cache
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\AppExemplo.csproj.CopyComplete
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\Razor\Views\Main\Index.cshtml.g.cs
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\Razor\Views\Main\AdicionarProduto.cshtml.g.cs
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\Razor\Views\Main\ProdutoIncluido.cshtml.g.cs
+C:\Users\mytef\source\repos\AppExemplo\obj\Debug\net5.0\Razor\Views\Main\ListaProdutos.cshtml.g.cs
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\appsettings.json
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\AppExemplo.exe
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\Models\produtos.csv
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\AppExemplo.deps.json
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\AppExemplo.runtimeconfig.json
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\AppExemplo.runtimeconfig.dev.json
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\AppExemplo.dll
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\ref\AppExemplo.dll
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\AppExemplo.pdb
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\AppExemplo.Views.dll
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\AppExemplo.Views.pdb
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.csprojAssemblyReference.cache
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.AssemblyInfoInputs.cache
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.AssemblyInfo.cs
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.csproj.CoreCompileInputs.cache
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.RazorAssemblyInfo.cache
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.RazorAssemblyInfo.cs
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\staticwebassets\AppExemplo.StaticWebAssets.Manifest.cache
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\staticwebassets\AppExemplo.StaticWebAssets.xml
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\scopedcss\bundle\AppExemplo.styles.css
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.TagHelpers.input.cache
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.TagHelpers.output.cache
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.RazorCoreGenerate.cache
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\Razor\Views\Main\AdicionarProduto.cshtml.g.cs
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\Razor\Views\Main\Index.cshtml.g.cs
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\Razor\Views\Main\ListaProdutos.cshtml.g.cs
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\Razor\Views\Main\ProdutoIncluido.cshtml.g.cs
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.RazorTargetAssemblyInfo.cache
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.RazorTargetAssemblyInfo.cs
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.Views.pdb
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.dll
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\ref\AppExemplo.dll
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.pdb
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.genruntimeconfig.cache
+C:\Users\mytef\source\repos\uploadAppTest-main\obj\Debug\net5.0\AppExemplo.csproj.CopyComplete
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\Views\Shared\Error.cshtml
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\Views\Shared\_Layout.cshtml
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\Views\Shared\_ValidationScriptsPartial.cshtml
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\wwwroot\css\form.css
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\wwwroot\css\site.css
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\wwwroot\css\style.css
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\wwwroot\favicon.ico
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\mytef\source\repos\uploadAppTest-main\bin\Debug\net5.0\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\appsettings.json
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\AppExemplo.exe
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\Views\Shared\Error.cshtml
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\Views\Shared\_Layout.cshtml
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\Views\Shared\_ValidationScriptsPartial.cshtml
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\wwwroot\css\form.css
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\wwwroot\css\site.css
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\wwwroot\css\style.css
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\wwwroot\favicon.ico
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\Models\produtos.csv
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\AppExemplo.deps.json
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\AppExemplo.runtimeconfig.json
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\AppExemplo.runtimeconfig.dev.json
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\AppExemplo.dll
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\ref\AppExemplo.dll
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\AppExemplo.pdb
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\AppExemplo.Views.dll
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\bin\Debug\net5.0\AppExemplo.Views.pdb
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.csprojAssemblyReference.cache
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.AssemblyInfoInputs.cache
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.AssemblyInfo.cs
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.csproj.CoreCompileInputs.cache
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.RazorAssemblyInfo.cache
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.RazorAssemblyInfo.cs
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\staticwebassets\AppExemplo.StaticWebAssets.Manifest.cache
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\staticwebassets\AppExemplo.StaticWebAssets.xml
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\scopedcss\bundle\AppExemplo.styles.css
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.TagHelpers.input.cache
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.TagHelpers.output.cache
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.RazorCoreGenerate.cache
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\Razor\Views\Main\AdicionarProduto.cshtml.g.cs
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\Razor\Views\Main\Index.cshtml.g.cs
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\Razor\Views\Main\ListaProdutos.cshtml.g.cs
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\Razor\Views\Main\ProdutoIncluido.cshtml.g.cs
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.RazorTargetAssemblyInfo.cache
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.RazorTargetAssemblyInfo.cs
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.Views.pdb
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.dll
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\ref\AppExemplo.dll
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.pdb
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.genruntimeconfig.cache
+C:\Users\mytef\source\repos\New folder\ASP.NET-Core-1-main\obj\Debug\net5.0\AppExemplo.csproj.CopyComplete
